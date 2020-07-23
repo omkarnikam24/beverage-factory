@@ -1,0 +1,137 @@
+[
+  {
+    "name": "coffee",
+    "ingredientMap": {
+      "coffee": {
+        "name": "coffee",
+        "price": 3.00,
+        "mandatory": true
+      },
+      "milk": {
+        "name": "milk",
+        "price": 1.00,
+        "mandatory": false
+      },
+      "sugar": {
+        "name": "sugar",
+        "price": 0.50,
+        "mandatory": false
+      },
+      "water": {
+        "name": "water",
+        "price": 0.50,
+        "mandatory": true
+      }
+    },
+    "price": 5.00
+  },
+  {
+    "name": "chai",
+    "ingredientMap": {
+      "tea": {
+        "name": "tea",
+        "price": 2.00,
+        "mandatory": true
+      },
+      "milk": {
+        "name": "milk",
+        "price": 1.00,
+        "mandatory": false
+      },
+      "sugar": {
+        "name": "sugar",
+        "price": 0.50,
+        "mandatory": false
+      },
+      "water": {
+        "name": "water",
+        "price": 0.50,
+        "mandatory": true
+      }
+    },
+    "price": 4.00
+  },
+  {
+    "name": "banana smoothie",
+    "ingredientMap": {
+      "banana": {
+        "name": "banana",
+        "price": 4.00,
+        "mandatory": true
+      },
+      "milk": {
+        "name": "milk",
+        "price": 1.00,
+        "mandatory": false
+      },
+      "sugar": {
+        "name": "sugar",
+        "price": 0.50,
+        "mandatory": false
+      },
+      "water": {
+        "name": "water",
+        "price": 0.50,
+        "mandatory": true
+      }
+    },
+    "price": 6.00
+  },
+  {
+    "name": "strawberry shake",
+    "ingredientMap": {
+      "strawberries": {
+        "name": "strawberries",
+        "price": 5.00,
+        "mandatory": true
+      },
+      "milk": {
+        "name": "milk",
+        "price": 1.00,
+        "mandatory": false
+      },
+      "sugar": {
+        "name": "sugar",
+        "price": 0.50,
+        "mandatory": false
+      },
+      "water": {
+        "name": "water",
+        "price": 0.50,
+        "mandatory": true
+      }
+    },
+    "price": 7.00
+  },
+  {
+    "name": "mojito",
+    "ingredientMap": {
+      "lemon": {
+        "name": "lemon",
+        "price": 5.50,
+        "mandatory": true
+      },
+      "soda": {
+        "name": "soda",
+        "price": 0.50,
+        "mandatory": false
+      },
+      "sugar": {
+        "name": "sugar",
+        "price": 0.50,
+        "mandatory": false
+      },
+      "water": {
+        "name": "water",
+        "price": 0.50,
+        "mandatory": true
+      },
+      "mint": {
+        "name": "mint",
+        "price": 0.50,
+        "mandatory": false
+      }
+    },
+    "price": 7.50
+  }
+]
